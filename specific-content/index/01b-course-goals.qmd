@@ -1,0 +1,5 @@
+By the end of this course you will be able to:
+- distinguish frequentist and Bayesian approaches to data analysis;
+- choose appropriate prior distributions for a Bayesian model;
+- use Stan to fit Bayesian models;
+- interpret Bayesian model results.

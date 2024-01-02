@@ -1,0 +1,6 @@
+Basic Bayesian concepts and methods with emphasis on data analysis.
+Special emphasis on specification of prior distributions.
+Includes linear, logistic, and Poisson regression.
+
+**Prerequisite**: <a href="http://catalogue.uci.edu/search/?P=STATS%20120C">STATS 120C</a> <br>
+**Recommended** <a href="http://catalogue.uci.edu/search/?P=STATS%20110">STATS 110</a> <br>

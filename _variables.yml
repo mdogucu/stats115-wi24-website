@@ -1,0 +1,39 @@
+author: "Mine Dogucu"
+institute: "University of California Irvine"
+department: "Department of Statistics"
+
+course:
+  code: "STATS 115"
+  short-title: "Intro to BDA"
+  long-title: "Introduction to Bayesian Data Analysis"
+  term: "Winter"
+  year: "2024"
+  site: "https://www.stats115.com"
+  github-org: "https://github.com/mdogucu/stats115-wi24-website"
+  discussion: "https://edstem.org/us/courses/50898/"
+  lms: "https://canvas.eee.uci.edu/courses/59979/gradebook"
+  gradescope: "https://www.gradescope.com/courses/690902"
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  email: "mdogucu@uci.edu"
+  website: "https://www.minedogucu.com"
+  pronoun: "she/they"
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "M 9:00 - 10:00 am in person and online"
+  zoom: "https://uci.zoom.us/j/99884918396"
+  office : "DBH 2204"
+  
+  
+ta: 
+  name: Zahra Moslemi
+  email: "zmoslemi@uci.edu"
+  pronoun: "she/her"
+  photo: "img/zahra-moslemi.jpeg"
+  audio: "zahra-moslemi.mp3"
+  office-hours: "W TBD and F TBD pm in person and online"
+  office: "DBH 2013"
+  zoom: ""
+  
+

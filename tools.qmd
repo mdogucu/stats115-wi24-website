@@ -1,0 +1,27 @@
+---
+tox: true
+---
+
+## Textbook
+
+**Bayes Rules!** is the textbook of the course. It is freely available at [bayesrulesbook.com](https://www.bayesrulesbook.com/) and you will not need to purchase a hard copy. However, if you prefer a hard-copy it is available in the bookstore. 
+
+## Programming Tools
+
+**R and RStudio** We will use the R language and use RStudio interface.
+
+
+## Other Software
+
+We will use [an online forum]({{< var course.discussion >}}) where you can ask and answer questions. Please read [guidelines](03-policies.html#online-discussion) for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.
+
+We will use [Gradescope]({{< var course.gradescope >}}) for some of the assignments. You will get instructions on how to use Gradescope.
+
+
+We will use [Canvas]({{< var course.lms >}}) for keeping track of grades.
+
+If you are not on campus, you will need to connect through [VPN](https://www.oit.uci.edu/help/vpn/) to access resources that are only accessible on campus. Follow the instructions on the link.
+      
+      
+		
+	
