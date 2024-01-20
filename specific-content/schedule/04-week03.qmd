@@ -1,1 +1,76 @@
-TBA
+{{< fa calendar >}} Jan 15 - 21
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+  
+ <tr>
+    <td><input type="checkbox" /></td>
+    <td> The Beta-Binomial Model &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week03/3a-beta-binomial.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Chapter 3</td>
+    <td><a href="https://www.bayesrulesbook.com" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Discussion: See you at the <s>Finish </s> Posterior Line</td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-starter-codes/XXXX.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a> <a href="https://www.gradescope.com/courses/690902/assignments/3969931" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+            title="External Link to Gradescope" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Balance and Sequentiality in Bayesian Analyses &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week03/3b-balance-sequentiality.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Chapter 4</td>
+    <td><a href="https://www.bayesrulesbook.com" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Homework 3: The Beta-Binomial Model, Balance, and Sequentiality &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://www.gradescope.com/courses/690902/assignments/3964417" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+            title="External Link to Gradescope" target = "_blank"></i></a></td>
+    <td>Jan 29, 1:30 pm</td>
+  </tr>
+    
+        
+</table>
