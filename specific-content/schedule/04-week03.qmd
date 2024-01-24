@@ -35,7 +35,7 @@
     <td><input type="checkbox" /></td>
     <td> Discussion: See you at the <s>Finish </s> Posterior Line</td>
     <td></td>
-    <td><a href="https://mdogucu.github.io/stats115-wi24-starter-codes/XXXX.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+    <td><a href="https://mdogucu.github.io/stats115-wi24-starter-codes/see_you_posterior_line.qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a> <a href="https://www.gradescope.com/courses/690902/assignments/3969931" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
             title="External Link to Gradescope" target = "_blank"></i></a></td>
     <td></td>
