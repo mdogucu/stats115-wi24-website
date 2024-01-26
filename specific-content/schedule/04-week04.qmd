@@ -1,1 +1,76 @@
-TBA
+{{< fa calendar >}} Jan 29 - Feb 4
+
+
+<table class="table-striped text-left table-bordered" align = "center">
+
+  <thead>
+    <th style="width:  3%"></th>
+    <th style="width:  30%"></th>
+    <th style="width:  40%">Notes</th>
+    <th style="width:  8%">Links</th>
+    <th style="width:  15%">Due</th>
+  </thead>
+  
+ <tr>
+    <td><input type="checkbox" /></td>
+    <td> The Gamma-Poisson Model &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week04/4a-gamma-poisson.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Sections 5.1 and 5.2</td>
+    <td><a href="https://www.bayesrulesbook.com" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Discussion: Exercises from Chapters 4 and 5</td>
+    <td></td>
+    <td>
+    <a href=".qmd" download> <i class="fa-brands fa-r-project" aria-hidden="true"
+            title="External Link to Quarto File" target = "_blank"></i></a> </td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> The Normal-Normal Model &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week04/4b-normal-normal.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a>
+      </td>
+    <td></td>
+  </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Reading </td>
+    <td>Sections 5.3, 5.4, and 5.5</td>
+    <td><a href="https://www.bayesrulesbook.com" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to the Book" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
+
+  
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Homework 4: The Conjugate Families &nbsp; &nbsp; </td>
+    <td></td>
+    <td><a href="https://www.gradescope.com/courses/690902/assignments/4009739" target ="_blank"> <i class="fas fa-edit" aria-hidden="true"
+            title="External Link to Gradescope" target = "_blank"></i></a></td>
+    <td>Feb 5, 1:30 pm</td>
+  </tr>
+    
+        
+</table>
