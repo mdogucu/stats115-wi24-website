@@ -58,6 +58,15 @@
     <td></td>
   </tr>
   
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> Formulae Sheet&nbsp; &nbsp; </td>
+    <td>It will be provided during the exam.</td>
+    <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week05/cheatsheet.pdf" target ="_blank"> <i class="fas fa-book" aria-hidden="true"
+            title="External Link to Slides" target = "_blank"></i></a></td>
+    <td></td>
+  </tr>
+  
   
   <tr>
     <td><input type="checkbox" /></td>
