@@ -29,6 +29,14 @@
     <td></td>
   </tr>
   
+   <tr>
+    <td><input type="checkbox" /></td>
+    <td> Discussion: Midterm Review &nbsp; &nbsp; </td>
+    <td> </td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
 
   <tr>
     <td><input type="checkbox" /></td>
