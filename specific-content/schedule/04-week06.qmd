@@ -18,6 +18,15 @@
     <td></td>
     <td>Feb 12, 2:00 pm</td>
   </tr>
+  
+  <tr>
+    <td><input type="checkbox" /></td>
+    <td> No Discussion &nbsp; &nbsp; </td>
+    <td> </td>
+    <td></td>
+    <td></td>
+  </tr>
+  
   <tr>
     <td><input type="checkbox" /></td>
     <td> Posterior Inference and Prediction &nbsp; &nbsp; </td>
