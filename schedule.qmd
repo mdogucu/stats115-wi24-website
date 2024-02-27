@@ -46,6 +46,4 @@ toc: true
 
 {{< include specific-content/schedule/04-week10.qmd >}}
 
-## Final Week
 
-{{< include specific-content/schedule/04-week11.qmd >}}
