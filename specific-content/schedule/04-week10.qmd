@@ -16,7 +16,7 @@
 
   <tr>
     <td><input type="checkbox" /></td>
-    <td> Hierarchical Models with No Predictors	 &nbsp; &nbsp; </td>
+    <td> Hierarchical Models with Predictors	 &nbsp; &nbsp; </td>
     <td> This will take two lectures </td>
     <td><a href="https://mdogucu.github.io/stats115-wi24-slides/week10/10a-hlm-pred.html" target ="_blank"> <i class="fas fa-laptop" aria-hidden="true"
             title="External Link to Slides" target = "_blank"></i></a> </td>
